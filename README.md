@@ -8,8 +8,8 @@ Authors: AMEERA ALMOMANI, KHALDOON MHAIDAT, OSAMA AL-KHALEEL, AND MOHAMMAD AL-KH
 
 ---
 
-## Availability of Source Code
-The full source code will be released upon acceptance of the paper.  
+## Release Info
+Release date: 20 November 2025 — 12:00 PM.  
 
-Stay tuned for updates.
+
 
